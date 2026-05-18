@@ -1,1 +1,2 @@
-Mouse,25,10
+keyboard,15,25
+Mouse,25,3
